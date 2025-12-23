@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Базовая тема без AppCompat -->
+    <style name="Theme.CounterMVI" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Цвета для Material3 -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
